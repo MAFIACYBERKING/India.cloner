@@ -11,5 +11,5 @@ Install tool
 👿git clone https://github.com/HAKERBOYMDALAMIN/India.cloner👿
 👿cd India.cloner👿
 👿ls👿
-👿python2 indian.py👿
+👿python2 indian.py
 
