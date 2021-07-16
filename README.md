@@ -12,4 +12,4 @@ Install tool
 👿cd India.cloner👿
 👿ls👿
 👿python2 indian.py👿
-Username :...... Facebook kay inbox korvha 
+
